@@ -1,16 +1,33 @@
-## Hi there 👋
+# Bonjour, je suis Delphin Peltier
 
-<!--
-**DelphinPeltier/DelphinPeltier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Bachelor 1 Informatique à l’ESGI  
+Actuellement à la recherche d’une alternance  
+Intéressé par le développement, l’automatisation et la cybersécurité (spécialisation visée)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+Langages : Python, C, JavaScript, HTML, CSS, PHP  
+Systèmes : Raspberry Pi, NAS, Linux  
+Réseau : bases en réseau et virtualisation  
+Outils : Git, GitHub
+
+---
+
+## Projets principaux
+
+Automatisation météo en Python  
+Analyse de données météo via API et BeautifulSoup (projet parapente)
+
+Site web dynamique  
+Développement en HTML, CSS et PHP
+
+Serveur Raspberry Pi  
+Configuration en passerelle multimédia et serveur NAS
+
+---
+
+## Contact
+
+Email : delphinpeltier@gmail.com
