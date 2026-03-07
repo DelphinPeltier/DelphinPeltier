@@ -18,7 +18,7 @@ Outils : Git, GitHub
 ## Projets principaux
 
 Automatisation météo en Python  
-Analyse de données météo via API et BeautifulSoup (projet parapente)
+Analyse de données météo via API (projet parapente)
 
 Site web dynamique  
 Développement en HTML, CSS et PHP
