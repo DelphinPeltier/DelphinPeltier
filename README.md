@@ -21,7 +21,7 @@ Automatisation météo en Python
 Analyse de données météo via API (projet parapente)
 
 Site web  
-Développement en HTML, CSS et PHP site dynamique 
+Développement en HTML, CSS et PHP site dynamique  
 projet acrhitecture_web avec architecture MVC
 
 Serveur Raspberry Pi  
