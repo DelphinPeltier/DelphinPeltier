@@ -20,8 +20,9 @@ Outils : Git, GitHub
 Automatisation météo en Python  
 Analyse de données météo via API (projet parapente)
 
-Site web dynamique  
-Développement en HTML, CSS et PHP
+Site web  
+Développement en HTML, CSS et PHP site dynamique 
+projet acrhitecture_web avec architecture MVC
 
 Serveur Raspberry Pi  
 Configuration en passerelle multimédia et serveur NAS
