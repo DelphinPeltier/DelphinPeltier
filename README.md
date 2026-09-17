@@ -1,7 +1,7 @@
 # Bonjour, je suis Delphin Peltier
 
-Étudiant en Bachelor 1 Informatique à l’ESGI  
-Actuellement à la recherche d’une alternance  
+Étudiant en Bachelor 2 Informatique à l’ESGI  
+Actuellement en alternance a SNCF Reseau
 Intéressé par le développement, l’automatisation et la cybersécurité (spécialisation visée)
 
 ---
